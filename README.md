@@ -18,36 +18,36 @@ Akan names are derived from Ghanian culture. Frequently in Ghana, children are g
 
 #Male.
 
-#Sunday: Kwasi
+>Sunday: Kwasi
 
-#Monday: Kwadwo
+>Monday: Kwadwo
 
-#Tuesday: Kwabena
+>Tuesday: Kwabena
 
-#Wednesday: Kwaku
+>Wednesday: Kwaku
 
-#Thursday:  Yaw
+>Thursday:  Yaw
 
-#Friday: Kofi
+>Friday: Kofi
 
-#Saturday: Kwame
+>Saturday: Kwame
 
 ##Female
 
 
-Sunday: Akosua
+>Sunday: Akosua
 
-#Monday: Adwoa
+>Monday: Adwoa
 
-#Tuesday: Abenaa
+>Tuesday: Abenaa
 
-#Wednesday: Akua
+>Wednesday: Akua
 
-#Thursday:  Yaa
+>Thursday:  Yaa
 
-#Friday: Afua
+>Friday: Afua
 
-#Saturday: Ama
+>Saturday: Ama
 
 ## Features
 Here are the features in summary:
