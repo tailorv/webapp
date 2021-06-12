@@ -14,35 +14,36 @@ Akan name generator
 This is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name.
 
 Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born. Here are Ghanian day names.
-Male
-Sunday: Kwasi
+Male.
 
-Monday: Kwadwo
+#Sunday: Kwasi
 
-Tuesday: Kwabena
+#Monday: Kwadwo
 
-Wednesday: Kwaku
+#Tuesday: Kwabena
 
-Thursday:  Yaw
+#Wednesday: Kwaku
 
-Friday: Kofi
+#Thursday:  Yaw
 
-Saturday: Kwame
+#Friday: Kofi
 
-Female
-Sunday: Akosua
+#Saturday: Kwame
 
-Monday: Adwoa
+#Female
+#Sunday: Akosua
 
-Tuesday: Abenaa
+#Monday: Adwoa
 
-Wednesday: Akua
+#Tuesday: Abenaa
 
-Thursday:  Yaa
+#Wednesday: Akua
 
-Friday: Afua
+#Thursday:  Yaa
 
-Saturday: Ama
+#Friday: Afua
+
+#Saturday: Ama
 
 ## Features
 Here are the features in summary:
