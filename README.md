@@ -1,5 +1,5 @@
 # Akan name generator
-#### Simple web app that generates an Akan name based on the date of birth and gender by determining the day one was born 
+#### Simple web app that generates an Akan name based on the date of birth and gender by determining the day one was born
 ![alt text](images/app.jpg)
 
 ![alt text](images/result.jpg)
@@ -56,4 +56,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-Copyright (c) 2019 **Maxwell Munene**
+Copyright (c) 2021 **Maxwell Munene**
