@@ -30,8 +30,10 @@ Male.
 
 #Saturday: Kwame
 
-#Female
-#Sunday: Akosua
+##Female
+
+
+Sunday: Akosua
 
 #Monday: Adwoa
 
