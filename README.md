@@ -11,10 +11,38 @@ Maxwell Munene
 
 ## Versioning
 Akan name generator
+This is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name.
 
-## Description
-Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born. Here are Ghanian day names. This app takes a user's birthday on the form provided and calculates the day of the week they were born and then depending on their gender outputs their Akan Name.
-This app will take in a user's year of birth, month of birth, day of birth and select gender. Using a formula assigned to a variable in the akan.js file (day of Week Number), it will be possible to determine the exact day of the week the user was born and give them an Akan name based on their gender.
+Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born. Here are Ghanian day names.
+Male
+Sunday: Kwasi
+
+Monday: Kwadwo
+
+Tuesday: Kwabena
+
+Wednesday: Kwaku
+
+Thursday:  Yaw
+
+Friday: Kofi
+
+Saturday: Kwame
+
+Female
+Sunday: Akosua
+
+Monday: Adwoa
+
+Tuesday: Abenaa
+
+Wednesday: Akua
+
+Thursday:  Yaa
+
+Friday: Afua
+
+Saturday: Ama
 
 ## Features
 Here are the features in summary:
