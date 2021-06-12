@@ -57,9 +57,7 @@ Here are the features in summary:
 * Select Gender.
 * Output Akan name.
 
-## Known Bugs
-* Formula provided to determine day of birth shows inconsistency in its results (Bug fixed)
-## Technologies Used
+## Technology Used
 * HTML  
 * CSS
 * Javascript
