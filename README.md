@@ -4,7 +4,7 @@
 
 ![RESULTS](images/result.jpg)
 
-![ERROR](images/error.jpg)
+![ERROR](images/error.jpg) (ERROR)
 
 ## Author
 Maxwell Munene
