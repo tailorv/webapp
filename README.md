@@ -4,6 +4,8 @@
 
 ![alt text](images/result.jpg)
 
+![alt text](images/error.jpg)
+
 ## Author
 Maxwell Munene
 
