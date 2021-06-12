@@ -6,7 +6,7 @@ function getAkanName () {
 
   let genders = document.getElementsByName("gender");
 
-   // gender  fuction 
+   // gender  fuction
   function getGender () {
     for (let gender of genders){
       if (gender.checked){
@@ -19,7 +19,7 @@ function getAkanName () {
 
   console.log(myGenderValue);
 
-  // validation functions
+  // validation function
   function monthValidator () {
     if (monthOfBirth < 1 || monthOfBirth > 12) {
       return false;
