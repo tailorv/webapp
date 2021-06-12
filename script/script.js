@@ -45,7 +45,7 @@ validation fuction
     }
   }
 
-  //validation variables
+  //2 validation variable
   let monthValid = monthValidator();
   let dayValid = dayValidator();
 
