@@ -1,10 +1,10 @@
 # Akan name generator
 #### A web app that generates  Akan names based on the date of birth and gender by determining the day you were born.
-![alt text](images/app.jpg)
+![USER INTERFACE](images/app.jpg)
 
-![alt text](images/result.jpg)
+![RESULTS](images/result.jpg)
 
-![alt text](images/error.jpg)
+![ERROR](images/error.jpg)
 
 ## Author
 Maxwell Munene
