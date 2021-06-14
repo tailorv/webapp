@@ -17,8 +17,7 @@ function getAkanName () {
   let myGenderValue = getGender();
   console.log(myGenderValue);
 
-validation fuction
-
+  // validation functions
   function monthValidator () {
     if (monthOfBirth < 1 || monthOfBirth > 12) {
       return false;
@@ -45,7 +44,7 @@ validation fuction
     }
   }
 
-  //2 validation variable
+  //validation variables
   let monthValid = monthValidator();
   let dayValid = dayValidator();
 
@@ -53,7 +52,7 @@ validation fuction
   let dayOfWeekNumber = Math.floor((((Number(yearOfBirth.slice(0,2))/4)-2*Number(yearOfBirth.slice(0,2))-1)+
           ((5*Number(yearOfBirth.slice(2,4))/4))+((26*(monthOfBirth+1)/10))+dayOfBirth)%7);
 
-  //creating list of Akan names for males & females and days of the week
+  //creating arrays of Akan names for males & females and days of the week
   let daysOfWeek = [
     "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"
   ];
